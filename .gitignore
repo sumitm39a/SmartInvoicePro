@@ -70,3 +70,10 @@ test_invoice_qr.png
 
 # Generated invoice backups
 backups/
+
+# PyInstaller builds
+build/
+build_*/
+dist/
+dist_*/
+*.spec
